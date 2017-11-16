@@ -6,7 +6,9 @@
         <groupId>578</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
+    <child>
     <artifactId>task1</artifactId>
     <packaging>jar</packaging>
     <name>task1-build</name>
+    </child>
 </project>
